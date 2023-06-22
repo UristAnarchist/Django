@@ -1,2 +1,2 @@
-# Django
-html
+Логин - admin
+Пароль - superuser
